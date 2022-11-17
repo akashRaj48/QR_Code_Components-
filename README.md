@@ -1,2 +1,2 @@
 # QR_Code_Components-
-<a href="https://qrcode-component-fd.netlify.app/" target="new">QR_CODE_Live</a>
+<p><a href="https://cg-qr-code-components.netlify.app/">Qr_Code_Components</a></p>
